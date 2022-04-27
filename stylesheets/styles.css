@@ -1,13 +1,13 @@
 /* 1er commit - Cambiar el fondo de la pagina */
 body {
-  background: #161514;
+  background: #101525;
   font-size : 16px;
 }
 
 /* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
 ul li a p {
   color          : #FFFFFF;
-  background     : #E94016;
+  background     : #101525;
   width          : 75%;
   list-style-type: none;
   padding        : .3em 1em .3em;
@@ -17,7 +17,7 @@ ul li a p {
 
 /* 3er commit - Cambiar el color de la barra lateral */
 header.sidebar {
-  background-color: #EEEEEE;
+  background-color: #6578b8;
   width           : 30%;
   background-size : cover;
   display         : inline-block;
